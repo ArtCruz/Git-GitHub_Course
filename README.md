@@ -1,4 +1,4 @@
-# Olá, Mundo
+# Git & GitHub Course
 Primeiro repositório do curso de Git e GitHub
 
 Repositórios criado durante uma aula o vivo
