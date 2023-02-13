@@ -76,5 +76,9 @@ Não entendo o comando `printf()` da linguagem Python
 
 ***
 
+## EMOJIS - :com o nome do emoji
 
+Olá pessoal 👋 estou de 👀 em vocês. 😄😄😄
+
+***
 
