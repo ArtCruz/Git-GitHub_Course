@@ -1,23 +1,19 @@
 ## ** **NEGRITO** **
-
 Utilize dois **  ou dois __ de cada lado
 
 ***
 
 ## * *ITÁLICO* *
-
 Utilize um *  ou um _ de cada lado
 
 ***
 
 ## _* _*ITÁLICO NEGRITO*_ *_
-
 Utilize um _ seguido de * no começo e * seguido de _ no final
 
 ***
 
 ## LISTA NUMERADA
-
 1. Teste 1
 1. Teste 2
 1. Teste 3
@@ -38,7 +34,6 @@ Utilize o * ou o _
 ***
 
 ## LISTA DE TAREFAS
-
 - [x] Tarefa 1
 - [ ] Tarefa 2
 - [ ] Tarefa 3
